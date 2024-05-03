@@ -1,2 +1,5 @@
-$ npm install -g redis-commander
-$ redis-commander
+npm install redis --save
+npm install @types/redis --save-dev
+
+npm install -g redis-commander
+redis-commander
